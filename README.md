@@ -1,2 +1,1 @@
-# prepCoursegit2
-repositorio de prueba modulo 2
+intento numero 1000
